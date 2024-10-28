@@ -13,4 +13,4 @@ jobs:
       build_source: ./
       build_destination: ./_site
       builder: jekyll
-      deploy_to: gh-pages
+      deploy_to: gh-pagesf
